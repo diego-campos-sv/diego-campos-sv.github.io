@@ -1,3 +1,6 @@
 nav#navbar {
     font-size: 2rem;
 }
+nav#toc-sidebar {
+    overflow-y: unset;
+}
