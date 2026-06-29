@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div style="text-align: justify;">
 <div>
 Hello there — I'm Diego Campos, a performance tester and full‑stack tinkerer from Sevilla. I measure, break, and fix software so users never have to (that’s my day job, old sport). I build scalable performance suites with JMeter, experiment with k6 and Playwright for modern automation, and wire tests into CI with Jenkins and Docker. 
